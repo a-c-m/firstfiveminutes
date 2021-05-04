@@ -8,15 +8,15 @@ That's it. Join the **#FirstFiveMinutes** club!
 
 1. Schedule your meeting as normal
 2. Share your screen, load [this image](/assets/images/sharescreen.png), then mute yourself
-3. Use the 5 minutes to improve your well being
+3. Use the five minutes to improve your well being
 4. Un-mute and have great meeting
 
 ## Why
 - Back to back meetings happen
 - [Meeting fatigue](https://support.microsoft.com/en-gb/office/reduce-meeting-fatigue-f44be8a1-1bb4-4d02-8bc3-6bfd83ef3b5b) is real
 - Work/Meetings often expand to fill the time available for them - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson's_law)
-- Its easier to start late, than stop early, especially if its a good conversation
-- Its a nice thing to do
+- It's easier to start late, than stop early, especially if its a good conversation
+- It's a nice thing to do
 
 ## Alternatives
 - Schedule shorter meetings?
