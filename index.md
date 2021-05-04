@@ -1,4 +1,4 @@
-![sharescreen](https://user-images.githubusercontent.com/105557/116999002-f3e85300-acd6-11eb-886a-369229f73c57.png)
+![sharescreen](/assets/images/sharescreen.png)
 
 # The idea here is simple, when you start your meeting, give the first 5 minutes back.
 
@@ -7,7 +7,7 @@ That's it. Join the **#FirstFiveMinutes** club!
 ## 4 Simple Steps
 
 1. Schedule your meeting as normal
-2. Share your screen, load [this image](https://user-images.githubusercontent.com/105557/116999002-f3e85300-acd6-11eb-886a-369229f73c57.png), then mute yourself
+2. Share your screen, load [this image](/assets/images/sharescreen.png), then mute yourself
 3. Use the 5 minutes to improve your well being
 4. Un-mute and have great meeting
 
