@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+  width: 960px;
+}
+
+a {
+  color: #5E17EB
+}
