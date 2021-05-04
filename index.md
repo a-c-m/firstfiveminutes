@@ -1,6 +1,6 @@
 ---
-title: "FirstFiveMinutes.club"
-description: "Give the first 5 minutes back"
+title: "First Five Minutes .club"
+description: "Give the first 5 minutes back."
 image: "/assets/images/sharescreen.png"
 ---
 ![sharescreen](/assets/images/sharescreen.png)
