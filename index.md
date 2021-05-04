@@ -9,7 +9,7 @@ That's it. Join the #FirstFiveMinutes club!
 ## 4 Simple Steps
 
 1. Schedule your meeting as normal
-2. Share your screen, load [this image](http:www.firstifiveminutes.club/screen.png), then mute yourself
+2. Share your screen, load [this image](https://user-images.githubusercontent.com/105557/116999002-f3e85300-acd6-11eb-886a-369229f73c57.png), then mute yourself
 3. Use the 5 minutes you now have to improve your well being
 4. Un-mute and have great meeting
 
