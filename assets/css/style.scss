@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#container {
+  font-size: x-large;
+}
+
+.inner {
+  width: 960px;
+}
+
+h1 {
+  padding-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+a {
+  color: #5E17EB
+}

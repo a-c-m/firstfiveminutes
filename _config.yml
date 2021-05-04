@@ -1,4 +1,6 @@
 theme: jekyll-theme-tactile
 title: [FirstFiveMinutes.club]
 description: [Give the first 5 minutes back]
-show_downloads: ["false"]
+show_downloads: [false]
+google_analytics: [UA-196251521-1]
+is_project_page: [true]
