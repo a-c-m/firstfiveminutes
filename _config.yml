@@ -7,3 +7,5 @@ google_analytics: [UA-196251521-1]
 is_project_page: [true]
 url: [https://www.firstfiveminutes.club]
 image: [/assets/images/sharescreen.png]
+plugins:
+  - jekyll-seo-tag
