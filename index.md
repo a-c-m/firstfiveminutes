@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+![sharescreen](https://user-images.githubusercontent.com/105557/116999002-f3e85300-acd6-11eb-886a-369229f73c57.png)
 
-You can use the [editor on GitHub](https://github.com/a-c-m/firstfiveminutes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# FirstFiveMinutes.club
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*The idea here is simple, when you start your meeting, give the first 5 minutes back.*
 
-### Markdown
+That's it. Join the #FirstFiveMinutes club!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 4 Simple Steps
 
-```markdown
-Syntax highlighted code block
+1. Schedule your meeting as normal
+2. Share your screen, load [this image](http:www.firstifiveminutes.club/screen.png), then mute yourself
+3. Use the 5 minutes you now have to improve your well being
+4. Un-mute and have great meeting
 
-# Header 1
-## Header 2
-### Header 3
+## Why
+- Back to back meetings happen
+- [Meeting fatigue](https://support.microsoft.com/en-gb/office/reduce-meeting-fatigue-f44be8a1-1bb4-4d02-8bc3-6bfd83ef3b5b) is real
+- Work/Meetings often expand to fill the time available for them - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson's_law)
+- Its easier to start late, than stop early, especially if its a good conversation
+- Its a nice thing to do
 
-- Bulleted
-- List
+## Alternatives
+- Schedule shorter meetings?
+	- [Outlook lets you do this]((https://support.microsoft.com/en-us/office/end-meetings-early-or-start-late-ebb4c4c9-6992-4ea7-9772-8b5883df8500)), but only on Windows.
+	- Someone might schedule into that gap!
+- Have less meetings / no meeting days 
+	- This is a great idea
+- ... ? 
 
-1. Numbered
-2. List
+## Contribute
+This was an idea I heard, so I made an image for it using [Canva](https://www.canva.com/), and then this website. Its hosted on [github pages](https://pages.github.com/), using [jekyll](https://jekyllrb.com/) - which means its very easy for anyone to [help](https://github.com/a-c-m/firstfiveminutes/issues) with ideas, designs, spelling fixes etc.
+There is probably a lot of research/ideas in this space, please share them (ideally with a [PR](https://github.com/a-c-m/firstfiveminutes/pulls)) and I will update this page.
 
-**Bold** and _Italic_ and `Code` text
+Be the change you want to see in your workplace/industry/world.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-c-m/firstfiveminutes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks - [Alex](http://www.acmconsulting.eu)
