@@ -20,6 +20,10 @@ That's it. Join the **#FirstFiveMinutes** club!
 - Back to back meetings happen.
 - [Meeting fatigue](https://support.microsoft.com/en-gb/office/reduce-meeting-fatigue-f44be8a1-1bb4-4d02-8bc3-6bfd83ef3b5b) is real.
 - Work/Meetings often expand to fill the time available for them - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson's_law).
+- It's supported by [Science!](https://corporate-rebels.com/brain-research) which says:
+	- Breaks help to reset the brain
+	- Breaks increase focus and engagement
+	- Breaks help in transitioning
 - It's easier to start late, than stop early, especially if it's a good conversation.
 - It's a nice thing to do.
 
