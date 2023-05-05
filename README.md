@@ -4,4 +4,4 @@
 
 A very simple [github pages](https://pages.github.com/) site using [jekyll](https://jekyllrb.com/).
 
-See [https://firstfiveminutes.club/](https://firstfiveminutes.club/)
+See [https://a-c-m.github.io/firstfiveminutes/](https://a-c-m.github.io/firstfiveminutes/)
